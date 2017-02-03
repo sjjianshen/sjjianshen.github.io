@@ -58,6 +58,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-gist
   jekyll-paginate
+  rouge
 
 RUBY VERSION
    ruby 2.4.0p0

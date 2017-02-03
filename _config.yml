@@ -1,10 +1,10 @@
 name: Jian Shen's Blog
-highlighter: true
+highlighter: rouge
 url: https://sjjianshen.github.io
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
 description: Jian Shen's Blog
-intro: Articles 
+intro: Jian Shen's Personal Blog 
 logo:             logo.png
 disqus_shortname:
 # url: http://gotchacode.com

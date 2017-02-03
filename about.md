@@ -1,6 +1,8 @@
 ---
 layout: default
-title: About Vinit Kumar
+title: About Jian Shen
 ---
 
-Your introduction here
+* Consultant at Thoughtworks Inc.
+* Now focusing on devops and artificial intellegence
+* My E-mail: sjxjtu@gmail.com
